@@ -2,7 +2,8 @@ body {
     background-color: rgb(208, 182, 255);
     font-family: "Verdana";
     color: rgb(131, 28, 228);
-    margin-left: 5%;
+    margin-left: 10%;
+    font-size: 115%;
 }
 
 a {
