@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(208, 182, 255);
+    font-family: "Verdana";
+    color: rgb(131, 28, 228);
+    margin-left: 5%;
+}
+
+a {
+    color:  rgb(255, 20, 184);
+}
+
+highlight {
+    color: rgb(216, 35, 223);
+}
