@@ -12,9 +12,9 @@ highlight {
     color: rgb(216, 35, 223);
 }
 
-div {
+.blog {
     padding-left: 20px;
     padding-right: 10px;
     padding-bottom: 10px;
     border: 7px solid rgb(131, 28, 228);
-}       
+}
