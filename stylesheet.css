@@ -2,8 +2,6 @@ body {
     background-color: rgb(222, 205, 255);
     font-family: "Verdana";
     color: rgb(131, 28, 228);
-    margin-left: 2.5%;
-    font-size: 110%;
 }
 
 a {
@@ -13,3 +11,10 @@ a {
 highlight {
     color: rgb(216, 35, 223);
 }
+
+div {
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: 7px solid rgb(131, 28, 228);
+}       
